@@ -1,3 +1,11 @@
+# Classroom
+
+## Introduction
+
+This is a project done on a course called TypeScript. In the chapter below you can read what was asked to do.
+
+## Description of the assignment
+
 Complete the 6 functions with proper types in **classroom.ts** and check UI to interact with the form and submit your own grades (on top of the ones that were already provided).
 
 Here's a description of what each function should do:
